@@ -36,6 +36,12 @@ overwriteHeight = 360
 
 // vvvv credits to Getdls & GITech vvvv //
 
+[TextureRedefine] # Gamepad View resolution. Data Probe List tends to break with uneven buffer scaling	#Custom scale	1.5
+width =	854	
+height = 480	
+overwriteWidth = 1280	
+overwriteHeight = 720
+
 [TextureRedefine] # Sun, Light Sources (plants, armor etc)
 width =	512
 height = 288
